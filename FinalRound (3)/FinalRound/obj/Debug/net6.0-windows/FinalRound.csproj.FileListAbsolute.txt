@@ -1,0 +1,71 @@
+C:\Users\glebr\source\repos\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.exe
+C:\Users\glebr\source\repos\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.deps.json
+C:\Users\glebr\source\repos\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.runtimeconfig.json
+C:\Users\glebr\source\repos\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.dll
+C:\Users\glebr\source\repos\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.AssemblyReference.cache
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form1.resources
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.GenerateResource.cache
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfoInputs.cache
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfo.cs
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.CoreCompileInputs.cache
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.dll
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\refint\FinalRound.dll
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.genruntimeconfig.cache
+C:\Users\glebr\source\repos\FinalRound\FinalRound\obj\Debug\net6.0-windows\ref\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.exe
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form1.resources
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form2.resources
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\refint\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.deps.json
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.runtimeconfig.json
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\FinalRound\FinalRound\obj\Debug\net6.0-windows\ref\FinalRound.dll
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.exe
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.deps.json
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.runtimeconfig.json
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.dll
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\bin\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.AssemblyReference.cache
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form1.resources
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form2.resources
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.GenerateResource.cache
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfoInputs.cache
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfo.cs
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.CoreCompileInputs.cache
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.dll
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\refint\FinalRound.dll
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\FinalRound.genruntimeconfig.cache
+C:\Users\glebr\OneDrive\Рабочий стол\FinalRound\FinalRound\obj\Debug\net6.0-windows\ref\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\bin\Debug\net6.0-windows\FinalRound.exe
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\bin\Debug\net6.0-windows\FinalRound.deps.json
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\bin\Debug\net6.0-windows\FinalRound.runtimeconfig.json
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\bin\Debug\net6.0-windows\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\bin\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form1.resources
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.Form2.resources
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\refint\FinalRound.dll
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.pdb
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\FinalRound.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\FinalRound (3)\FinalRound\obj\Debug\net6.0-windows\ref\FinalRound.dll
